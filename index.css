@@ -1,0 +1,18 @@
+body {
+  background-color: rgb(220, 220, 220);
+}
+
+/* Side Navbar link */
+a.side-nav-link {
+  color: aliceblue;
+}
+
+/* Navbar */
+.navbar-dropdown {
+  color: black;
+}
+
+.week-day {
+  color: black;
+  text-align: center;
+}
